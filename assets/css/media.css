@@ -1,0 +1,25 @@
+.display-1.text-center.d-lg-flex.justify-content-lg-center {
+  color: rgba(0,194,255,0.86);
+  font-family: 'Open Sans', sans-serif;
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .display-1.text-center.d-lg-flex.justify-content-lg-center {
+    color: rgba(0,194,255,0.86);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 576px) {
+  .img-fluid {
+    margin-top: 36px;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+  .img-fluid {
+    margin-top: 36px;
+  }
+}
+
