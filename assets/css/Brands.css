@@ -1,0 +1,88 @@
+.brands {
+  color: #313437;
+  background-color: #fff;
+}
+
+.brands a {
+  display: block;
+  text-align: center;
+  padding: 40px 0;
+}
+
+@media (max-width:767px) {
+  .brands a {
+    padding: 30px 0;
+  }
+}
+
+.brands a img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+}
+
+@media (min-width: 1199px) {
+  #title {
+    font-size: 120px;
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 991px) and (max-width:1198px) {
+  #title {
+    font-size: 100px;
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 767px) and (max-width:990px) {
+  #title {
+    font-size: 80px;
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 575px) and (max-width:766px) {
+  #title {
+    font-size: 55px;
+    padding-top: 100px;
+  }
+}
+
+@media (max-width:574px) {
+  #title {
+    font-size: 35px;
+    padding-top: 100px;
+  }
+}
+
+@media (max-width:574px) {
+  #rayhan {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 575px) {
+  #rayhan {
+    font-size: 45px;
+  }
+}
+
+@media (max-width:574px) {
+  #desc {
+    padding: 50px;
+  }
+}
+
+@media (min-width: 767px) {
+  #desc {
+    padding: 70px;
+  }
+}
+
+@media (min-width: 575px) and (max-width:766px) {
+  #desc {
+    padding: 70px;
+  }
+}
+
